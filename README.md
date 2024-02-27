@@ -1,2 +1,8 @@
 # LayerZeroKing
 LayerZeroKing
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x026ac9f12E6680c50884D57C6923cB52Ca0eF96b'
+quorum: 1
